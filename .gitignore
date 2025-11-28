@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Snek workspace data
+.snek/
+
+# Neovim
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
